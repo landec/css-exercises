@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+
+div .text {
+    background-color: hsl(60, 100%, 50%);
+    color: hsl(0, 100%, 50%);
+    text-align: center;
+}
